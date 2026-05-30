@@ -23,5 +23,5 @@ If your system uses `python3`, use `python3 main.py` instead.
 
 ## Notes
 
-- The footer text has been updated to `MAL19INDUSTRIES`.
 - Ensure `config/api_keys.json` contains your Gemini API key under `gemini_api_key`.
+- Credits to: FaithMakes for Inspiring!
